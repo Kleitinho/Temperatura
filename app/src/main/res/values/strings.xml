@@ -1,0 +1,11 @@
+<resources>
+    <string name="temperatura">Conversor de Temperatura</string>
+    <string name="btnCelFah">Celsius -> Fahrenheit</string>
+    <string name="btnCelKel">Celsius -> Kelvin</string>
+    <string name="btnFahCel">Fahrenheit -> Celsius</string>
+    <string name="btnFahKel">Fahrenheit -> Kelvin</string>
+    <string name="btnKelCel">Kelvin -> Celsius</string>
+    <string name="btnKelFah">Kelvin -> Fahrenheit</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnConverter">Converter</string>
+</resources>
